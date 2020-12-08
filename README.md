@@ -1,6 +1,4 @@
-# BbMemory_Game
-
-# 리눅스로 추억의 게임 만들기
+# BbMemory_Game - 리눅스로 추억의 게임 만들기
 
 
 * 프로젝트 멤버
